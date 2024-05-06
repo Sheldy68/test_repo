@@ -4,5 +4,6 @@ public class MainGit {
         комментарий
          */
         System.out.println("Hello World!");
+        System.out.println("Hello Sveta!");
     }
 }
